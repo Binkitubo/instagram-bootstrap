@@ -1,0 +1,41 @@
+.navbar-brand i {
+    padding-right: 5px;
+    font-size: 30px;
+}
+
+.titulo {
+    font-weight: bold;
+    font-family: "Dancing Script";
+    font-size: 30px;
+}
+
+.menu {
+    padding: 0 150px;
+}
+
+.vista button {
+    color: gray;
+}
+
+.vista:hover button {
+    color: gray;
+}
+
+.nav-pills {
+    --bs-nav-pills-link-active-bg: gray;
+}
+
+.card img {
+    max-height: 300px;
+}
+
+.card {
+    --bs-card-border-width: 0;
+}
+
+.comentario {
+    background-color: transparent;
+    border: 0px solid;
+    height: 20px;
+    width: 480px;
+}
